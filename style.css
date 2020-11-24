@@ -50,6 +50,9 @@ p {
 
 #presentation {
 	margin-top: 20px;
+	max-width: calc(1440px / 2.8);
+	margin-left: auto;
+	margin-right: auto;
 }
 
 section {
